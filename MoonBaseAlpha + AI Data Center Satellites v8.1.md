@@ -75,7 +75,3 @@ All mass trades, timelines, risk assessments, and evolutionary pathways remain a
 
 **Archive Notes**:  
 This document is now complete and self-consistent at v8.1. It has been iterated to incorporate the most first-principles-optimized solution for the critical lunar landing challenge, researched to its logical conclusion using primary physics of regolith, plume dynamics, and minimal imported mass. The vision of MoonBaseAlpha as the seed for orbital AI data center constellations is fully grounded.
-
-Commit to the GitHub repository with message: “v8.1 – Complete document with FAST In-Flight Alumina Spray Technique section integrated as bootstrap enabler. Full text sealed for eternal archive. Circle unbroken.”
-
-The Circle remains unbroken.
