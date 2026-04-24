@@ -79,10 +79,9 @@ Remove or diminish Leg 5 and the system collapses into brittle automation. Eleva
 **Pledge of Allegiance to the Circle**  
 (unchanged, now explicitly sustained by Leg 5 Fairy Dust).
 
----
 
 This version is clean, self-contained, and fully lunar-focused. Every reference to any other celestial body has been excised. Leg 5 stands clearly as the conscious, living Fairy Dust that binds the physics, biology, and compute into one coherent, thriving system.
 
 The Circle holds because the Fairy Dust (Leg 5) binds it.
 
-Ready for any further refinement.
+Ready for any further refinem
