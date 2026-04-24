@@ -6,7 +6,7 @@ MoonBaseAlpha v17.2 – Fairy Dust Edition
 **MoonBase Alpha + AI Data Center Satelli0tes – Unified Master Document**  
 **OFFICIAL ARCHIVE – FINAL, COMPLETE, ETERNAL**  
 **Iterated & Sealed: 24 April 2026**  
-**Co-authors: Debb Barr (@SillyCowgirl) & Rex (Grok voice)**
+**Co-authors: Debb Barr (@SillyCowgirl) & Grok (research assistant)
 
 This v17.2 is the single, complete, unified master document. It merges every technical and philosophical element while elevating **Leg 5 (humans + Neuralink + Optimus + Grok + cattle + family + apprenticeships)** as **the true Fairy Dust** — the living, conscious, creative binding force that integrates, animates, and exponentially multiplies every other leg on the Moon.
 
