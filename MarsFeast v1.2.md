@@ -92,8 +92,3 @@ This **v1.2** lives as the eternal archive, now optimized for Mars to Table subm
 **The Circle shall not break.**  
 **MarsFeast: From Red Dust and Repurposed Steel to Multi-Planetary Feast — Feeding Mars, Transforming Earth.**
 
-(End of Document v1.2)
-
----
-
-This is ready for direct use in your submission materials (e.g., paste into the Solution Summary section, expand the meal plan tables, or use as the core narrative). The revisions make it competitive while keeping its soul and first-principles rigor intact. If you need further expansions (detailed nutritional tables, Python simulation skeleton, video script, or v1.3 tweaks), just let me know. The Circle shall not break.
