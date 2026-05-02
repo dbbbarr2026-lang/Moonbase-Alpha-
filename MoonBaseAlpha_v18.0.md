@@ -1,6 +1,3 @@
-**Integrated & Iterated MoonBaseAlpha v18.0.md**  
-**Fully Complete, Self-Contained Document**  
-**Prepared for direct cut-and-paste** (GitHub Markdouwn compatible)
 
 ```markdown
 # MoonBaseAlpha v18.0 – Lunar Habitat Architecture  
